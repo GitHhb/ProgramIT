@@ -1,0 +1,5 @@
+Maak een programma dat:
+1. Een zin opsplitst in losse woorden en deze in een String array bewaard.
+2. Deze String array sorteert op lengte van de woorden.
+   Gebruik daarvoor van class Collections de method
+   public static <T> void sort(List<T> list, Comparator<? super T> c)
