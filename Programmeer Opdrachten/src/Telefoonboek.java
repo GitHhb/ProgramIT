@@ -33,8 +33,6 @@ class PersonData{
     Boolean phoneNrSecret;
 
     // Constructors
-    PersonData() {}
-
     PersonData(String firstName, String lastName, String phoneNr, Boolean phoneNrSecret){
         this.firstName = firstName;
         this.lastName  = lastName;
